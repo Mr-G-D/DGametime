@@ -161,7 +161,7 @@ nav ul li a:hover {
 
 /* start: hero styles */
 #hero-image {
-  background: url("../images/wall.jpg") top center no-repeat fixed;
+  background: url("../images/wall.jpg") top center no-repeat fixed ;
   height: 820px;
 }
 
